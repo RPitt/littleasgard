@@ -7,14 +7,14 @@
 
 Little Asgard is a traditional slate cottage boasting stunning views from its elevated position over Coniston Water in the Lake District.
 
-### Availability
-<iframe src="cal.html" style="width:100%;height:400px;border:none"></iframe>
+## Availability
+<iframe src="cal.html" style="width:100%;height:250px;border:none"></iframe>
 
 
-### Bookings
+## Bookings
 At the moment all our bookings are made via **[https://www.airbnb.co.uk/h/LittleAsgard](https://www.airbnb.co.uk/h/LittleAsgard)**
 
-
+---
 
 Please follow our facebook page at **[https://www.facebook.com/LittleAsgard](https://www.facebook.com/LittleAsgard)** for updates and last minute discounts.
 
