@@ -9,10 +9,9 @@ Little Asgard is a traditional slate cottage boasting stunning views from its el
 
 ## Bookings
 
-At the moment all our bookings are made via https://www.airbnb.co.uk/h/LittleAsgard  
-Friends and family are welcome to contact us directly for direct bookings and a friends and family discount.
+At the moment all our bookings are made via [https://www.airbnb.co.uk/h/LittleAsgard].  
+Please follow our facebook page at [https://www.facebook.com/LittleAsgard] for updates.
 
-Please follow our facebook page at https://www.facebook.com/LittleAsgard/ for udpates
 
 Regards 
 
