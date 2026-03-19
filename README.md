@@ -1,5 +1,6 @@
 <style>
   .site-header { display: none; }
+  .site-footer { display: none; }
 </style>
 
 # Little Asgard - Coniston Holiday Cottage
