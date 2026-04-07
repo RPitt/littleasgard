@@ -3,6 +3,8 @@
   .site-footer { display: none; }
 </style>
 
+![](/LA-Logo.png)
+
 # **Little Asgard - Coniston Holiday Cottage**
 
 Little Asgard is a traditional slate cottage boasting stunning views from its elevated position over Coniston Water in the Lake District.
